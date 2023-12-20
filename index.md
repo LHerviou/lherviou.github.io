@@ -3,7 +3,7 @@ layout: page
 title: null
 published: false
 ---
-<!-- ![](profile.jpg){:height="250px"} -->
+<!-- ![](Profile.jpg){:height="250px"} -->
 
 
 
