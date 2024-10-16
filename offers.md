@@ -27,7 +27,7 @@ Recent experimental progress [1] has unveiled numerous fractional Hall plateaus,
 
 This internship project will focus on the effects of spin-orbit coupling on integer QHE systems. It will begin by analyzing how spin-orbit coupling modifies the wavefunctions and edge states of non-interacting electrons in a single Landau level in the presence of trapping potentials. The second phase will consider Landau level crossings effects in bilayer structures and address electron interactions through a mean-field Hartree-Fock approach. Combining both analytical and numerical work, this research will contribute to a better understanding of topological phases. Long-term (PhD) goals include extending this analysis to study transport and disorder effects, light-matter coupling to a QED cavity, or a more precise numerical treatments of interactions to study fractional phases.
 
-[1] K. Huang et al, Phys. Rev. X 12, 031019 (2022)
-[2] E. McCann et al, Rep. Prog. Phys. 76 056503 (2013)
-[3] Y. Xing et al., Phys. Rev. B 77, 114346 (2008)
-[4] P. Nataf et al., Phys. Rev. Lett. 123, 207402 (2019)
+[1] K. Huang et al, Phys. Rev. X 12, 031019 (2022) \
+[2] E. McCann et al, Rep. Prog. Phys. 76 056503 (2013) \
+[3] Y. Xing et al., Phys. Rev. B 77, 114346 (2008) \
+[4] P. Nataf et al., Phys. Rev. Lett. 123, 207402 (2019) \
