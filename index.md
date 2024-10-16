@@ -14,7 +14,7 @@ I am interested and working on different aspects of modern condensed matter: top
 
 To study these topics, I am using both analytical techniques, in particular quantum field theory and different renormalization approaches, but also and mainly numerical tools. I am working mainly with exact diagonalization and matrix product state methods. I am currently contributing to [ITensors.jl](https://github.com/ITensor/ITensors.jl), for example.
 
-You can find all my publications on [arXiv](https://arxiv.org/search/?searchtype=author&query=Herviou%2C+L).
+You can find all my publications on [arXiv]( http://arxiv.org/a/herviou_l_1).
 
 During my free time: [HEMA](http://unilamhe.ch/en/), martial arts, hiking and gaming.
 </div>

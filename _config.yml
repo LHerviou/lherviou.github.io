@@ -1,9 +1,9 @@
 # --- General options --- #
 
 # Name of website
- title: " "
+ title: "Loic Herviou's personal page"
 # Short description of your site
- description: ""
+ description: "The professional personal page of Loic Herviou, researcher at LPMMC in Grenoble, working on condensed matter theory."
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -19,6 +19,7 @@
 # List of links in the navigation bar
  navbar-links:
   Home: "index"
+  Offers: "offers"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -65,7 +66,7 @@
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
  social-network-links:
-  email: "loic [dot] herviou [at] epfl [dot] ch"
+  email: "loic [dot] herviou [at] lpmmc [dot] cnrs [dot] fr"
   github: lherviou
 #  linkedin: marta-a-brzezinska
 
