@@ -30,4 +30,4 @@ This internship project will focus on the effects of spin-orbit coupling on inte
 [1] K. Huang et al, Phys. Rev. X 12, 031019 (2022) \
 [2] E. McCann et al, Rep. Prog. Phys. 76 056503 (2013) \
 [3] Y. Xing et al., Phys. Rev. B 77, 114346 (2008) \
-[4] P. Nataf et al., Phys. Rev. Lett. 123, 207402 (2019) \
+[4] P. Nataf et al., Phys. Rev. Lett. 123, 207402 (2019) 
