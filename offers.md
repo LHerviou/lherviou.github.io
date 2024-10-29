@@ -5,6 +5,8 @@ subtitle: Here you will find offers to join my group.
 ---
 I currently propose two master internships (M2) in theory of condensed matter, cosupervised by two colleagues at LPMMC. To formally apply, please send me a brief email presenting yourself, including your CV, your grades of the previous year/semester and any reports you made for previous internships. If you have recommendation letters, it is a plus, but not mandatory.
 
+**Important note:** due to administrative constraints, non-EU applications need to be done at least two months before the beginning of the internship. For EU applications, administration is far less strict but at least a month is needed to set-up the contracts.
+
 Feel free to send me an email should you be interested by something else than what is presented below (or a PhD/postdoc position). I am always happy to talk about physics.
 
 ## Numerical simulations of SU(N) spin chains and ladders
@@ -30,4 +32,4 @@ This internship project will focus on the effects of spin-orbit coupling on inte
 [1] K. Huang et al, Phys. Rev. X 12, 031019 (2022) \
 [2] E. McCann et al, Rep. Prog. Phys. 76 056503 (2013) \
 [3] Y. Xing et al., Phys. Rev. B 77, 114346 (2008) \
-[4] P. Nataf et al., Phys. Rev. Lett. 123, 207402 (2019) 
+[4] P. Nataf et al., Phys. Rev. Lett. 123, 207402 (2019)
