@@ -9,7 +9,7 @@ Should you formally apply, please send me a brief email presenting yourself, inc
 
 **Important note:** due to administrative constraints, non-EU applications need to be done at least two months before the beginning of the internship. For EU applications, administration is far less strict but at least a month is needed to set-up the contracts.
 
-Below you can find some of the previous Master internsip we offered at LPMMC.
+Below you can find the previous Master internships we offered at LPMMC.
 
 ## ** 2024 - 2025 **
 For spring/summer 2025, I proposed two master internships (M2) in condensed matter theory, cosupervised by two colleagues at LPMMC. We has an additional M1 internship on similar subjects.
