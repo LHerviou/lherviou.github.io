@@ -11,7 +11,7 @@ Should you formally apply, please send me a brief email presenting yourself, inc
 
 Below you can find some of the previous Master internsip we offered at LPMMC.
 
-# 2024 - 2025
+## ** 2024 - 2025**
 For spring/summer 2025, I proposed two master internships (M2) in condensed matter theory, cosupervised by two colleagues at LPMMC. We has an additional M1 internship on similar subjects.
 
 ## Numerical simulations of SU(N) spin chains and ladders
