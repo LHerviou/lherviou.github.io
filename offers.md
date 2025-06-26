@@ -3,11 +3,16 @@ layout: page
 title: Offers
 subtitle: Here you will find offers to join my group.
 ---
-I currently propose two master internships (M2) in theory of condensed matter, cosupervised by two colleagues at LPMMC. To formally apply, please send me a brief email presenting yourself, including your CV, your grades of the previous year/semester and any reports you made for previous internships. If you have recommendation letters, it is a plus, but not mandatory.
+Currently, there is no open position in the group. Feel free to send me an email should you be interested in working with us, whether for internships or a PhD/postdoc position. In particular, [Pierre Nataf](https://lpmmc.cnrs.fr/spip.php?auteur78) and I are still looking for a good Master or PhD candidate to work on SU(N) simulations (see below for an example). So if you love group theory and quantum mechanics, please contact us.
+
+Should you formally apply, please send me a brief email presenting yourself, including your CV, your grades of the previous year/semester and any reports you made for previous internships. If you have recommendation letters, it is a plus, but not mandatory.
 
 **Important note:** due to administrative constraints, non-EU applications need to be done at least two months before the beginning of the internship. For EU applications, administration is far less strict but at least a month is needed to set-up the contracts.
 
-Feel free to send me an email should you be interested by something else than what is presented below (or a PhD/postdoc position). I am always happy to talk about physics.
+Below you can find some of the previous Master internsip we offered at LPMMC.
+
+# 2024 - 2025
+For spring/summer 2025, I proposed two master internships (M2) in condensed matter theory, cosupervised by two colleagues at LPMMC. We has an additional M1 internship on similar subjects.
 
 ## Numerical simulations of SU(N) spin chains and ladders
 **Codirector:** [Pierre Nataf](https://lpmmc.cnrs.fr/spip.php?auteur78)
