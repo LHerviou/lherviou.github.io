@@ -3,13 +3,46 @@ layout: page
 title: Offers
 subtitle: Here you will find offers to join my group.
 ---
-Currently, there is no open position in the group. Feel free to send me an email should you be interested in working with us, whether for internships or a PhD/postdoc position. In particular, [Pierre Nataf](https://lpmmc.cnrs.fr/spip.php?auteur78) and I are still looking for a good Master or PhD candidate to work on SU(N) simulations (see below for an example). So if you love group theory and quantum mechanics, please contact us.
+**Currently:** We have one postdoc opening in the group: all information can be found below, and [here](https://emploi.cnrs.fr/Offres/CDD/UMR5493-LOIHER-001/Default.aspx?lang=EN).
+
+**Permanent:** Feel free to send me an email should you be interested in working with us, whether for internships or a PhD/postdoc position. In particular, [Pierre Nataf](https://lpmmc.cnrs.fr/spip.php?auteur78) and I are still looking for a good Master or PhD candidate to work on SU(N) simulations (see below for an example). So if you love group theory and quantum mechanics, please contact us.
 
 Should you formally apply, please send me a brief email presenting yourself, including your CV, your grades of the previous year/semester and any reports you made for previous internships. If you have recommendation letters, it is a plus, but not mandatory.
 
 **Important note:** due to administrative constraints, non-EU applications need to be done at least two months before the beginning of the internship. For EU applications, administration is far less strict but at least a month is needed to set-up the contracts.
 
 Below you can find the previous Master internships we offered at LPMMC.
+
+## ** 2025 - 2026 **
+
+## Postdoc opening: Tensor networks for the fractional quantum Hall effect\
+Position details
+  - Title: Postdoctoral Fellow
+  - Starting date: Flexible, between December 1, 2025, and October 31, 2026
+  - Duration: 24 months
+  - Funding: ANR JCJC (French National Research Grant)
+  - Location: LPMMC, Grenoble, France
+
+Research topics\
+The successful candidate will develop tensor network numerical codes, building upon existing libraries, to study general models of the fractional quantum Hall effect, with a focus on multi-orbital systems. The work will involve:
+  - Developing one-dimensional DMRG codes, and explore the use of intrinsically two-dimensional tensor networks (e.g., PEPS).
+  - Investigating realistic multilayered materials.
+  - Potential collaborations on conformal field theories on the "fuzzy sphere" or utilizing non-Abelian symmetries.
+The postdoctoral researcher will be encouraged to pursue their own research interests alongside the core project.
+
+Requirements
+  - A PhD in theoretical condensed matter physics.
+  - Prior experience with tensor network methods.
+  - Experience in strongly-interacting physics (e.g., FQHE) or Projected Entangled Pair States (PEPS) will be highly valued.
+
+The laboratory and team\
+The LPMMC is a theoretical lab located in Grenoble, in the middle of the French Alps. It is part of a rich condensed matter physics ecosystem, including the Institut Néel (one of France’s largest physics laboratories) and the CEA, which together host several hundred researchers. The successful candidate will join a dynamic team working on tensor networks and the FQHE (4–5 theorists at LPMMC, with additional groups at Institut Néel and CEA), and will have opportunities for experimental collaborations at Institut Néel.
+
+Application Process\
+All information about the position and the application process can be found [here](https://emploi.cnrs.fr/Offres/CDD/UMR5493-LOIHER-001/Default.aspx?lang=EN).
+Candidates are also strongly encouraged to contact me directly.
+
+
 
 ## ** 2024 - 2025 **
 For spring/summer 2025, I proposed two master internships (M2) in condensed matter theory, cosupervised by two colleagues at LPMMC. We has an additional M1 internship on similar subjects.
