@@ -15,7 +15,7 @@ Below you can find the previous Master internships we offered at LPMMC.
 
 ## ** 2025 - 2026 **
 
-## Postdoc opening: Tensor networks for the fractional quantum Hall effect\
+## Postdoc opening: Tensor networks for the fractional quantum Hall effect
 Position details
   - Title: Postdoctoral Fellow
   - Starting date: Flexible, between December 1, 2025, and October 31, 2026
