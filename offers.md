@@ -3,13 +3,34 @@ layout: page
 title: Offers
 subtitle: Here you will find offers to join my group.
 ---
-**Currently:** I do not have any opening for now. Nonetheless, Grenoble has regular open calls for postdoc and PhDs throughout the year, notably through [QuantAlps](https://quantalps.univ-grenoble-alpes.fr/). I am always happy to discuss them, whether you wish to work with me or someone else.
+**Currently:** I have one M2 internship position open. Nonetheless, Grenoble has regular open calls for postdoc and PhDs throughout the year, notably through [QuantAlps](https://quantalps.univ-grenoble-alpes.fr/). I am always happy to discuss them, whether you wish to work with me or someone else.
 
 **Permanent:** Feel free to send me an email should you be interested in working with us, whether for internships or a PhD/postdoc position. If you are a student, please send me a brief email presenting yourself, including your CV, your grades of the previous year/semester and any reports you made for previous internships. I may ask for recommendation letters, but only after a first discussion.
 
 **Important note:** due to administrative constraints, non-EU applications need to be done at two to three months before the beginning of the internship. Quantum research has become relevant to national security in France, so we have a lot of constraints enforced from above. For EU applications, administration is far less strict but at least a month is needed to set-up the contracts.
 
 Below you can find the previous internships and positions I offered with my collaborators at LPMMC.
+
+
+## ** 2026 - 2027 **
+Please find below a M2 internship offer. See also on the [lab's website](https://lpmmc.cnrs.fr/en/m2-internship-tensor-network-methods-for-tight-binding-models-on-complex-lattices/)
+
+## Tensor-network methods for tight-binding models on complex lattices
+
+Tight-binding Hamiltonians are simple and versatile models of quantum matter. Beyond regular lattices, tight-binding models defined on complex geometries can show remarkably rich physical behavior. Among these, fractals and quasiperiodic lattices have historically played an important role in theoretical physics. Fractal lattices challenge the usual picture of topological phases, blurring the distinction between bulk and edge[1], while quasiperiodic models show unconventional localization with critical, multifractal eigenstates[2].
+Tensor networks[3] have become a powerful tool for simulating quantum many-body systems. Ground states of gapped, local, one-dimensional Hamiltonians can be appro-ximated quasi-exactly at a cost polynomial in the number of degrees of freedom, and hence logarithmic in the Hilbert space dimension. Their use has recently been extended to a wide range of situtations, including the representation of tight-binding Hamiltonians [4]. Combined with kernel polynomial methods, this approach gives the spectral functions of non-interacting models at a cost logarithmic in system size, for systems with billions of sites. We recently extended such constructions to a broad class of lattices with hierarchical structure, including fractal and quasiperiodic lattices [5].
+
+The goal of this internship is to extend these approaches to more complex models and to study their properties. Depending on the student's interests, we propose two directions:
+1) Topological states on fractal lattices. The student will implement topological models in this framework, including magnetic-flux, and then study localization and bulk-edge properties on different fractal lattices. 
+2) Quasiperiodic models in one and two dimensions. Tensor models have shown promising results for large quasiperiodic systems based on Fibonacci chains. The internship will work on more complex two-dimensional substitution tilings. Beyond a direct generalization, we will also explore using categorical symmetries to represent the substitution rules.
+
+Both directions will give the student insight into the physics of these systems and a good understanding of tensor networks and their links with finite automata, which will be useful for all their applications.
+
+[1] Fremling, van Hooft, Smith and Fritz, Phys. Rev. Res. 2, 013044 (2020)
+[2] Kohmoto, Sutherland and Tang, Phys. Rev. B 35, 1020 (1987)
+[3] Schollwoeck, Annals of Physics 326, 96 (2011)
+[4] Antão, Moustaj, Sun, and Lado, arXiv:2607.00991
+[5] Brzezińska, Colbois and Herviou, arXiv:2609.25276
 
 ## ** 2025 - 2026 **
 For 2025-2026, we had one postdoc opening, and we also took one student for a Master 2 internship.
